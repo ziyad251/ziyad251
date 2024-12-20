@@ -1,0 +1,228 @@
+
+
+/* src/App.css */
+/* src/App.css */
+.add-to-cart-button, .remove-button {
+  background-color: #4CAF50; /* Green */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border-radius: 12px; /* Ensures buttons are rounded */
+}
+
+.add-to-cart-button:hover, .remove-button:hover {
+  background-color: #415c1c; /* Darker green */
+}
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #fff; /* Default background */
+  min-height: 100vh; /* Ensure the body takes at least the full height of the viewport */
+  display: flex;
+  flex-direction: column; /* Allow footer to be at the bottom */
+}
+
+.main-content {
+  flex: 1; /* Allow the main content to grow and fill the available space */
+}
+html, body {
+  height: 100%; /* Ensure full height for body */
+  margin: 0; /* Remove default margin */
+}
+
+.App {
+  display: flex;
+  flex-direction: column; /* Stack children vertically */
+  min-height: 100vh; /* Make sure the App takes full viewport height */
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa; /* Light background color */
+}
+
+.App-header {
+  background-color: #343a40; /* Darker background for header */
+  padding: 20px;
+  color: #ffffff;
+}
+
+h2 {
+  color: #343a40; /* Dark color for headings */
+  text-align: center;
+}
+
+nav {
+  margin: 20px 0;
+}
+
+nav a {
+  margin: 0 15px;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #61dafb; /* Change color on hover */
+}
+
+.menu-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px; /* Space between items */
+  padding: 20px;
+  flex-grow: 1; /* Allow this section to grow and fill space */
+}
+
+.menu-item {
+  background-color: #ffffff; /* White background for menu items */
+  border: 1px solid #ddd; /* Light border */
+  border-radius: 8px; /* Rounded corners */
+  padding: 15px;
+  width: calc(25% - 40px); /* Four items per row */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  transition: transform 0.3s; /* Smooth hover effect */
+}
+
+.menu-item:hover {
+  transform: translateY(-5px); /* Lift effect on hover */
+}
+
+.menu-item img {
+  width: 100%; /* Responsive image */
+  border-radius: 8px; /* Rounded image corners */
+}
+
+.cart-items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+  border-bottom: 1px solid #ddd; 
+}
+
+
+
+@media (max-width: 768px) {
+  .menu-item {
+    width: calc(50% - 40px); 
+  }
+}
+
+@media (max-width: 480px) {
+  .menu-item {
+    width: calc(100% - 40px); 
+  }
+}
+/* About.css */
+
+/* Full-page background with a gradient */
+.About-container {
+  background: linear-gradient(to right, #ff7e5f, #feb47b); /* Gradient from pinkish to yellow-orange */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full height of the screen */
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+/* Content container with beautiful styling */
+.About-content {
+  background: rgba(0, 0, 0, 0.7); /* Dark semi-transparent background to make text readable */
+  padding: 40px 60px;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  max-width: 700px;
+  width: 100%; /* Ensures it adapts to smaller screen sizes */
+  margin: auto;
+  transition: all 0.3s ease;
+}
+
+/* Title styling with a more vibrant color */
+.About-content h2 {
+  font-family: 'Pacifico', sans-serif;
+  font-size: 3.5rem;
+  color: #f9c740; /* Golden color for title */
+  margin-bottom: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+/* Paragraph styling with a softer color */
+.About-content p {
+  font-size: 1.2rem;
+  color: #f0f0f0;
+  line-height: 1.8;
+  margin-bottom: 20px;
+  font-weight: 400;
+}
+
+/* Adding hover effect to content */
+.About-content:hover {
+  transform: scale(1.05);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.5);
+}
+
+/* Ensure responsiveness for smaller screens */
+@media (max-width: 768px) {
+  .About-content {
+      padding: 20px;
+  }
+
+  .About-content h2 {
+      font-size: 2.5rem;
+  }
+
+  .About-content p {
+      font-size: 1rem;
+  }
+}
+
+/* Footer.css */
+.footer {
+  padding: 30px;
+  background-color: #2d2d2d;
+  color: white;
+  text-align: center;
+  font-size: 1rem;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.footer-content {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.footer p {
+  margin-bottom: 15px;
+}
+
+.footer-links {
+  margin-top: 15px;
+}
+
+.footer-link {
+  color: #ff914d;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.footer-link:hover {
+  color: #ffffff;
+}
+
+.footer a:active {
+  color: #ff6f61;
+}
