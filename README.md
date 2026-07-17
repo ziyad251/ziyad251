@@ -86,7 +86,7 @@
 
 <tr>
 <td>🌐 Portfolio</td>
-<td><a href="https://www.mahammadziyad.me/"></a></td>
+<td><a href="https://www.mahammadziyad.me/">mahammadziyad.me</a></td>
 </tr>
 
 
