@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Backend+Developer;Cloud+Enthusiast;GenAI+Enthusiast;Always+Learning+New+Technologies" />
 
-<img src="https://komarev.com/ghpvc/?username=ziyad251&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
