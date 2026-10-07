@@ -13,14 +13,14 @@ AI Developer• Cloud Enthusiast • Backend Developer
 
 # 🚀 About Me
 
--🎓 Final Year Computer Science Engineering Student
--💼 Backend Developer Intern at Zephvion Pvt. Ltd. (April 2026 – July 2026)
--💻 Focused on Backend Development & Cloud Computing
--🤖 Building practical AI-powered applications using LLM APIs and Claude Code
--☁️ Working with Docker, AWS & cloud-native technologies
--🗄️ Experienced with PostgreSQL, MongoDB and REST APIs
--📚 Solving Data Structures & Algorithms in Java
--🎯 Looking for AI and Software Engineering opportunities
+- 🎓 Final Year Computer Science Engineering Student
+- 💼 Backend Developer Intern at **Zephvion Pvt. Ltd.** *(April 2026 – July 2026)*
+- 💻 Focused on **Backend Development & Cloud Computing**
+- 🤖 Building practical **AI-powered applications using LLM APIs and Claude Code**
+- ☁️ Working with **Docker, AWS & cloud-native technologies**
+- 🗄️ Experienced with **PostgreSQL, MongoDB and REST APIs**
+- 📚 Solving **Data Structures & Algorithms in Java**
+- 🎯 Looking for **AI and Software Engineering opportunities**
 
 ---
 
