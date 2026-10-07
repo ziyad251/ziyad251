@@ -13,13 +13,14 @@ AI Developer• Cloud Enthusiast • Backend Developer
 
 # 🚀 About Me
 
-- 🎓 Final Year Computer Science Engineering Student
-- 💼 Backend Developer Intern at **Zephvion Pvt. Ltd.** *(April 2026 – July 2026)*
-- 💻 Passionate about Backend Development & Cloud Computing
-- ☁️ Currently learning **Docker, AWS & Microservices**
-- 📚 Solving Data Structures & Algorithms in Java
-- 🤖 Interested in Generative AI
-- 🎯 Looking for Software Engineering opportunities
+-🎓 Final Year Computer Science Engineering Student
+-💼 Backend Developer Intern at Zephvion Pvt. Ltd. (April 2026 – July 2026)
+-💻 Focused on Backend Development & Cloud Computing
+-🤖 Building practical AI-powered applications using LLM APIs and Claude Code
+-☁️ Working with Docker, AWS & cloud-native technologies
+-🗄️ Experienced with PostgreSQL, MongoDB and REST APIs
+-📚 Solving Data Structures & Algorithms in Java
+-🎯 Looking for AI and Software Engineering opportunities
 
 ---
 
@@ -39,6 +40,14 @@ AI Developer• Cloud Enthusiast • Backend Developer
 ---
 
 ## 🛠️ Tech Stack
+
+### AI / GenAI
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-FF6F00?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6B46C1?style=flat-square)
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
