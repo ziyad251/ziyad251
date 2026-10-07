@@ -1,12 +1,11 @@
 <div align="center">
 
-# Hi 👋, I'm Mahammad Ziyad
+Hi 👋, I'm Mahammad Ziyad
+AI Developer• Cloud Enthusiast • Backend Developer
 
-### Backend Developer • Cloud Enthusiast • Software Engineer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Backend+Developer;Cloud+Enthusiast;AI+Application+Developer;Building+Scalable+Backend+Systems;Always+Learning+New+Technologies" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Backend+Developer;Cloud+Enthusiast;GenAI+Enthusiast;Always+Learning+New+Technologies" />
-
-
+</div>
 </div>
 
 ---
